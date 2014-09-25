@@ -36,7 +36,7 @@ Settings
 - **strict**: *true*
 	- This option requires all functions to run in ECMAScript 5's strict mode.
 - **globals**: All used globals
-	- **anwb**: *true*
+	- console
 - **newcap**: *false*
 	- This option requires you to capitalize names of constructor functions. Capitalizing functions that are intended to be used with new operator is just a convention that helps programmers to visually distinguish constructor functions from other types of functions to help spot mistakes when using this.
 - **latedef**: *true*.
