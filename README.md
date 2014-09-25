@@ -7,4 +7,4 @@ Check your JavaScript files against this JSHint config
 
 Place your code in the 'code' folder and run:
 
-`$ grunt develop` of `$ grunt deploy`
+`$ grunt develop` or `$ grunt deploy`
