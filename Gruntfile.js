@@ -21,7 +21,7 @@ module.exports = function(grunt) {
 					verbose: true
 				},
 				src: [ 'code/**/*.js' ] /* the files that will be checked */
-			},
+			}
 		}
 	});
 
